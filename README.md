@@ -26,7 +26,6 @@ Full stack software developer focused on designing and building practical web, m
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
